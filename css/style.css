@@ -12,6 +12,10 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+#blog-card-container {
+  background: linear-gradient(142deg, #f9fafb, #d2d6db)
+}
+
 * {
   box-sizing: border-box;
 }
